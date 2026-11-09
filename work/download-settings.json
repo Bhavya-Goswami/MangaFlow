@@ -1,0 +1,9 @@
+{
+  "concurrency": 2,
+  "pageConcurrency": 3,
+  "paused": false,
+  "retries": 2,
+  "retryDelay": 1.5,
+  "skipExisting": true,
+  "timeout": 60
+}
